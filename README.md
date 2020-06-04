@@ -1,2 +1,2 @@
 # database-2-sem
-SQL with Douglas
+SQL intro excercises
